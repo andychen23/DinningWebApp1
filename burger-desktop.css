@@ -1,0 +1,32 @@
+#status{
+	position: absolute;
+	left: 80% ;
+	top: 10%;
+	font-size: 300%;
+}
+#estimationBut{
+	position: absolute;
+	left: 60% ;
+	top: 40%;
+	background-color: #ffa500;
+	width:12em;
+	height: 3em;
+	font-size: 200%;
+}
+
+#realTimeBut{
+	position: absolute;
+	left: 60% ;
+	top: 70%;
+	background-color: #ffa500;
+	width:12em;
+	height: 3em;
+	font-size: 200%;
+}
+
+#p4{
+	position: absolute;
+	left: 10% ;
+	top: 5%;
+
+}

@@ -1,0 +1,41 @@
+#p4 {
+	position: absolute;
+	left: 15% ;
+	top: 20%;
+	width: 20%;
+	height: 20%;
+	}
+
+#p2 {
+	position: absolute;
+	left: 65% ;
+	top: 20%;
+	width: 20%;
+	height: 20%;
+	}
+
+#p1 {
+	position: absolute;
+	left: 15% ;
+	top: 60%;
+	width: 20%;
+	height: 20%;
+	}
+
+
+#p3 {
+	position: absolute;
+	left: 65% ;
+	top: 60%;
+	width: 20%;
+	height: 20%;
+	}
+#appName{
+	position: absolute;
+	left: 75% ;
+	top: 10%;
+
+}
+#bb {
+	display: none;
+}
